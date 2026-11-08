@@ -31,8 +31,8 @@
 * *Building Interactive Web Applications with Python and JavaScript*
 
 <div align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="10">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="60" />
+  <marquee behavior="scroll" direction="right" scrollamount="8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions...;Welcome+to+my+Profile!;Continuous+Learning+%26+Coding..." alt="Typing Animation" />
   </marquee>
 </div>
 
