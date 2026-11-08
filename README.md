@@ -20,8 +20,14 @@
 ### My Featured Projects
 
 * **[CodeAlpha_Task1_WebScraping](https://github.com/Soumya6155/CodeAlpha_Task1_WebScraping)**: Web scraping tool designed to extract structured data efficiently.
+
+* 
 * **[CodeAlpha_Task3_DataVisualization](https://github.com/Soumya6155/CodeAlpha_Task3_DataVisualization)**: Data visualization project analyzing key metrics and trends.
+
+* 
 * **[Page-replacement-simulator-](https://github.com/Soumya6155/Page-replacement-simulator-)**: Educational web simulator for operating system page replacement algorithms (FIFO, LRU, Optimal).
+
+* 
 * **[tic-tac-toe](https://github.com/Soumya6155/tic-tac-toe)**: Interactive web-based Tic-Tac-Toe game.
 
 ### My most recent articles
