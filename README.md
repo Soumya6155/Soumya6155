@@ -4,12 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=Soumya6155&color=brightgreen" alt="Profile views" />
 </p>
 
-<div align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="10">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="60" />
-  </marquee>
-</div>
-
 ### When I code, I rely on
 
 <p align="left">
@@ -35,6 +29,12 @@
 * *Getting Started with Web Scraping using Python: A Step-by-Step Guide*
 * *Visualizing Memory Management Algorithms in Operating Systems*
 * *Building Interactive Web Applications with Python and JavaScript*
+
+<div align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="10">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Car" width="60" />
+  </marquee>
+</div>
 
 ### My GitHub contributions summary
 
